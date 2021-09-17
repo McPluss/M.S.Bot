@@ -15,8 +15,15 @@ description: 订阅某个事件
 ```javascript
 event.subscribe(event : String, function : Function);
 ```
+
 | 参数 | 类型 | 详解 |
 | :---: | :---: | :---: |
-| event | String | [事件名称](null) |
+| event | String | [事件名称](https://github.com/McPluss/M.S.Bot/tree/ccff5dc2dc23e506c113934a85e7a33b351a8096/event-system/null/README.md) |
 | function | Function | 当事件触发时所执行的函数 |
+
+### 订阅事件函数
+
+在每一个事件触发的时候，都会执行所对应的函数。
+
+每一个函数都会包含一个回调参数（大概）参数详见[事件列表](https://null.com)
 
