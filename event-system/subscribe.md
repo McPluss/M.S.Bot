@@ -25,5 +25,5 @@ event.subscribe(event : String, function : Function);
 
 在每一个事件触发的时候，都会执行所对应的函数。
 
-每一个函数都会包含一个回调参数（大概）参数详见[事件列表](null)
+每一个函数都会包含一个回调参数（大概）参数详见[事件列表](https://null.com)
 
