@@ -18,5 +18,6 @@ event.subscribe(event : String, function : Function);
 
 * 参数解析
   * event : `String`
+    事件名称，详见[事件列表](null)
   * function : `Function`
 
