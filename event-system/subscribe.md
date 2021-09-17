@@ -17,5 +17,8 @@ event.subscribe(event : String, function : Function);
 ```
 
 * 参数
-    * | 参数 | 类型 | 详解 |
-      | :--: | :--: | :--: |
+  * | 参数 | 类型 | 详解 |
+    | :---: | :---: | :---: |
+    | event | String | 事件名称 |
+    | function | Function | 当事件触发时所执行的函数 |
+
