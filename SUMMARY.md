@@ -2,9 +2,7 @@
 
 * [Introduction](README.md)
 
-## 监听器 <a id="listener"></a>
+## 事件系统 <a id="event-system"></a>
 
-* [GroupMessage](listener/groupmessage.md)
-
-## API
+* [订阅事件](event-system/subscribe.md)
 
