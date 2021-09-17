@@ -17,8 +17,9 @@ event.subscribe(event : String, function : Function);
 ```
 
 * 参数解析
-* * event : `String`
-* * function : `Function` 
+
+  
+
 
 ### 
 
