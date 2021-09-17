@@ -12,11 +12,12 @@ description: 订阅某个事件
 
 ### 订阅
 
-```text
+```javascript
 event.subscribe(event : String, function : Function);
 ```
 
 * 参数解析
+    * event : `String`
 
   
 
