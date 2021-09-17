@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 
-## 监听器
+## 监听器 <a id="listener"></a>
 
-* [GroupMessage](jian-ting-qi/groupmessage.md)
+* [GroupMessage](listener/groupmessage.md)
 
 ## API
 
