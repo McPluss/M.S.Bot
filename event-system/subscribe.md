@@ -16,9 +16,10 @@ description: 订阅某个事件
 event.subscribe(event : String, function : Function);
 ```
 
-* 参数
-  * | 参数 | 类型 | 详解 |
-    | :---: | :---: | :---: |
-    | event | String | [事件名称](null) |
-    | function | Function | 当事件触发时所执行的函数 |
+
+
+1. [x] | 参数 | 类型 | 详解 |
+   | :---: | :---: | :---: |
+   | event | String | [事件名称](https://github.com/McPluss/M.S.Bot/tree/472518af3024c179f70bb14dded37c7f307870f6/event-system/null/README.md) |
+   | function | Function | 当事件触发时所执行的函数 |
 
