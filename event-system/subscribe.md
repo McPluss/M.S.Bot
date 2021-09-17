@@ -16,11 +16,6 @@ description: 订阅某个事件
 event.subscribe(event : String, function : Function);
 ```
 
-* 参数解析
-  * event : `String`    
-    事件名称，详见[事件列表](null)
-  * function : `Function`    
-    当事件发生时所触发的函数    
-    所传入得参数详见[事件列表](null)
+* 参数
     
 
