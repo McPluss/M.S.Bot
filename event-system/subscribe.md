@@ -17,5 +17,5 @@ event.subscribe(event : String, function : Function);
 ```
 
 * 参数
-    
-
+    * | 参数 | 类型 | 详解 |
+      | :--: | :--: | :--: |
