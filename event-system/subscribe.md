@@ -12,9 +12,13 @@ description: 订阅某个事件
 
 ### 订阅
 
+{% tabs %}
+{% tab title="JavaScript" %}
 ```javascript
 event.subscribe(event : String, function : Function);
 ```
+{% endtab %}
+{% endtabs %}
 
 | 参数 | 类型 | 详解 |
 | :---: | :---: | :---: |

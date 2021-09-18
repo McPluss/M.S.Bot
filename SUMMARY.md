@@ -10,4 +10,5 @@
 ## 接口 <a id="interface"></a>
 
 * [JS\_Group](interface/js_group.md)
+* [JS\_GroupMessage](interface/js_groupmessage.md)
 
