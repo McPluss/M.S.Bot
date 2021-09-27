@@ -22,7 +22,7 @@ event.subscribe(event : String, function : Function);
 
 | 参数 | 类型 | 详解 |
 | :---: | :---: | :---: |
-| event | String | [事件名称](https://github.com/McPluss/M.S.Bot/tree/ccff5dc2dc23e506c113934a85e7a33b351a8096/event-system/null/README.md) |
+| event | String | [事件名称](event-list.md) |
 | function | Function | 当事件触发时所执行的函数 |
 
 ### 订阅事件函数
